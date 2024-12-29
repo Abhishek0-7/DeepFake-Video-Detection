@@ -12,5 +12,5 @@ This project aims to detect deep fake videos using a hybrid approach combining R
 
   # Below are the links for pre-processed datasets:
 
-   Celeb_fake_face_only  https://drive.google.com/drive/folders/1mfRqcj7OPuES1M60wNetiXLglOm0u8yL?usp=drive_link .
+   Celeb_fake_face_only  https://drive.google.com/drive/folders/1mfRqcj7OPuES1M60wNetiXLglOm0u8yL?usp=drive_link 
    Celeb_real_face_only  https://drive.google.com/drive/folders/1ZTzbFmzDh-BKO_a26aYUfVAYpAlo-OCI?usp=drive_link
